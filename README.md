@@ -46,3 +46,4 @@ Antes de ejecutar el proyecto, asegúrate de tener **Python 3.8 o superior** ins
 ```sh
 pip install numpy scipy matplotlib sympy ipywidgets
 ```
+# Enfriamiento
